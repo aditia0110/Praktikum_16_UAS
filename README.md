@@ -35,4 +35,6 @@ https://github.com/aditia0110/Praktikum_16_UAS.git
 
 ### Live test program :
 
+Menghitung Daftar Nilai Mahasiswa
+
 [Live Test Program](https://replit.com/@AditiaSetiawan1/Menghitung-Daftar-Nilai-Mahasiswa#Praktikum_16_UAS)
