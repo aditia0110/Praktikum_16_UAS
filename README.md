@@ -31,7 +31,7 @@ Cara Menjalankan Program :
 
 ### Berikut link repository github :
 
-https://github.com/adam-webdev/16-uas
+https://github.com/aditia0110/Praktikum_16_UAS.git
 
 ### Live test program :
 
