@@ -35,4 +35,4 @@ https://github.com/adam-webdev/16-uas
 
 ### Live test program :
 
-[Live Test Program](https://replit.com/@adamdwi/program-input-nilai-mahasiswa#16-uas/main.py)
+[Live Test Program](https://replit.com/@AditiaSetiawan1/Menghitung-Daftar-Nilai-Mahasiswa#Praktikum_16_UAS)
