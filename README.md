@@ -40,5 +40,6 @@ Menghitung Daftar Nilai Mahasiswa
 [Live Test Program](https://replit.com/@AditiaSetiawan1/Menghitung-Daftar-Nilai-Mahasiswa#Praktikum_16_UAS)
 
 Demikian lah sedikit penjelasan dari saya, kurang lebihnya mohon maaf.
-TERIMAKASIH
+
+### TERIMAKASIH
 
